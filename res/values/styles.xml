@@ -1,0 +1,18 @@
+<resources>
+
+    <color name="pitch_black">#FF000000</color>
+    <color name="white_opaque">#FFFFFFFF</color>
+
+    <style name="AppBaseTheme" parent="android:Theme.Light"></style>
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="AppBaseTheme">
+
+        <item name="android:textColor">@color/white_opaque</item>
+        <!-- <item name="android:background">@color/pitch_black</item> -->
+        <!-- <item name="android:windowBackground">@color/pitch_black</item> -->
+        <!-- <item name="android:colorBackground">@color/pitch_black</item> -->
+    </style>
+    
+
+</resources>

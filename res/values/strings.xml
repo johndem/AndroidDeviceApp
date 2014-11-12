@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="memory">Memory</string>
+    <string name="access">Access Networks States</string>
+    <string name="access_des">Allows the application to access connectivity data from your phone</string>
+
+</resources>
